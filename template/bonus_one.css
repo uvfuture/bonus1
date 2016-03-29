@@ -80,6 +80,25 @@
   cursor: pointer;
 }
 
+.preditext {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: auto;
+  height: auto;
+  width: 15%;
+  padding: 0 46px 0 10px;
+  border-color: #888;
+  border-radius: 35px;
+  border-style: solid;
+  border-width: 5px;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
 ::-webkit-input-placeholder {
   color: #888;
 }
